@@ -1,0 +1,11 @@
+Id | Nombre | Dirección | Barrio | Gerente
+1 | Sucursal_1 | Carrera_178#34 | Barrio_10 | 14
+2 | Sucursal_2 | Carrera_56#18 | Barrio_13 | 11
+3 | Sucursal_3 | Carrera_113#165 | Barrio_4 | 17
+4 | Sucursal_4 | Carrera_181#125 | Barrio_11 | 3
+5 | Sucursal_5 | Carrera_16#141 | Barrio_14 | 25
+6 | Sucursal_6 | Carrera_13#163 | Barrio_12 | 23
+7 | Sucursal_7 | Carrera_70#124 | Barrio_3 | 21
+8 | Sucursal_8 | Carrera_153#46 | Barrio_2 | 22
+9 | Sucursal_9 | Carrera_85#144 | Barrio_9 | 13
+10 | Sucursal_10 | Carrera_162#32 | Barrio_13 | 26
